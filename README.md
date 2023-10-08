@@ -67,3 +67,5 @@ Em seguida, foi realizada a filtragem do dataset para:
 
 ###
 Após ter o dataset com todas as informações necessárias, a escolha do gráfico foi a de colunas agrupadas em função dos anos (2019, 2020, 2021, 2022 e 2023) e dos canais (Globonews, CNN Brasil e Jovem Pan News TV).
+
+<img src="/img/secom_tv_assinatura.png">
