@@ -52,7 +52,7 @@ A partir dos dados disponíveis no site da Secom, analisar como os valores foram
 
 Após importar as bibliotecas necessárias, foi feita a leitura do dataset .csv baixado do site da Secom.
 
-<img src="/img/dados.png">
+<img src="/img/dataset.png">
 
 ###
 Em seguida, foi realizada a filtragem do dataset para:
@@ -63,7 +63,7 @@ Em seguida, foi realizada a filtragem do dataset para:
 * definir um novo dataset com os filtros e valores;
 * preencher as variáveis nulas com valores 0 (zero), uma vez que CNN Brasil e Jovem Pan News TV não haviam iniciado suas respectivas transmissões.
 
-<img src="/img/dados.png">
+<img src="/img/dataset_valores_zero.png">
 
 ###
 Após ter o dataset com todas as informações necessárias, a escolha do gráfico foi a de colunas agrupadas em função dos anos (2019, 2020, 2021, 2022 e 2023) e dos canais (Globonews, CNN Brasil e Jovem Pan News TV).
