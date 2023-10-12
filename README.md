@@ -4,8 +4,6 @@
 
 De que forma a Secom (Secretaria de Comunicação) do governo federal distribuiu verbas publicitárias públicas para os três canais jornalísticos por assinatura (Globonews, CNN Brasil e Jovem Pan News TV) entre 2019 e 2023.
 
-A escolha 
-
 ### Contexto:
 
 Com a eleição de Jair Bolsonaro, em 2018, um dos pontos abordados em sua campanha presidencial foi a revisão para renovar a concessão do Grupo Globo e seus canais de televisão - entre eles, a Globonews, exclusivo de jornalismo 24 horas.
