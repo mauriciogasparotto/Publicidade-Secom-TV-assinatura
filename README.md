@@ -35,7 +35,7 @@ A partir dos dados disponíveis no site da Secom, analisar como os valores foram
 * **data:** arquivos **.csv** baixados no site da Secom;
 * **img:** capturas de tela e gráficos do projeto;
 * **code:** estrutura dos códigos para **Jupyter Notebook** (.ipynb) e **VSCode** (.py);
-* **english version:** a translate of **reademe.md** (.pdf).
+* **english version:** a translate of **readme.md** (.pdf).
 
 ## Linguagem utilizada:
 
