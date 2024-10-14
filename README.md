@@ -2,7 +2,7 @@
 
 ## O projeto:
 
-De que forma a Secom (Secretaria de Comunicação) do governo federal distribuiu verbas publicitárias públicas para os três canais jornalísticos por assinatura (Globonews, CNN Brasil e Jovem Pan News TV) entre 2019 e 2023.
+De que forma a Secom (Secretaria de Comunicação) do governo federal distribuiu verbas publicitárias públicas para os canais jornalísticos por assinatura (Globonews, CNN Brasil e Jovem Pan News TV) entre 2019 e 2023.
 
 ### Contexto:
 
